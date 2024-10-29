@@ -1,0 +1,58 @@
+Scientific:
+12
+Krakow
+Jan Mayen
+McMurdo Station
+Manhattan 
+
+Industrial:
+12
+Pristina
+Tiraspol
+Shenzhen
+
+Merciantile:
+12
+Doha
+Las Vegas
+Dubai
+Monaco
+Amsterdam
+
+Inspirational:
+12
+Georgetown
+Nicosia
+Naples
+
+Diplomatic:
+12
+Minsk
+Antananarivo
+Port Louis
+
+Religious:
+12
+Jericho
+Tbilisi
+Colombo
+Gaza
+
+Militaristic:
+12
+Asmara
+Fort Worth
+Kyiv
+Sparta
+
+Cultural:
+12
+Oslo
+Kiribati
+Nouméa
+Knossos
+
+Maritime:
+12
+Mariehamn 
+Minami-Tori-shima

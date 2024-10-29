@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Perfume",
+		"resourceType": "Luxury",
+		"gold": 1,
+		"culture": 1,
+		"uniques": ["Can only be created by Mercantile City-States"],
+	},
+	{
+		"name": "Luxury Clothing",
+		"resourceType": "Luxury",
+		"gold": 1,
+		"happiness": 1,
+		"uniques": ["Can only be created by Mercantile City-States"],
+	},
+]

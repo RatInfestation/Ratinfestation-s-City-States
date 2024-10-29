@@ -1,0 +1,165 @@
+[
+    {
+        "name": "Cultured",
+        "friendBonusUniques": [
+          "[+3 Culture] <before the [Medieval era]>",
+          "[+6 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+13 Culture] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+26 Culture] <starting from the [Atomic era]>",
+        ],
+        "allyBonusUniques": [
+          "[+6 Culture] <before the [Medieval era]>",
+          "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+26 Culture] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+34 Culture] <starting from the [Atomic era]>",
+        ],
+        "color": [139, 96, 255]
+    },
+    {
+        "name": "Maritime",
+        "friendBonusUniques": [
+        "[+1 Food] [in capital] <before the [Medieval era]>",
+        "[+2 Food] [in capital] <starting from the [Medieval era]> <before the [Industrial era]>",
+        "[+3 Food] [in capital] <starting from the [Industrial era]> <before the [Atomic era]>",
+        "[+4 Food] [in capital] <starting from the [Atomic era]>"],
+
+        "allyBonusUniques": [
+        "[+1 Food] [in capital] <before the [Medieval era]>",
+        "[+2 Food] [in capital] <starting from the [Medieval era]> <before the [Industrial era]>",
+        "[+3 Food] [in capital] <starting from the [Industrial era]> <before the [Atomic era]>",
+        "[+4 Food] [in capital] <starting from the [Atomic era]>",
+
+        "[+1 Food] [in all cities] <before the [Industrial era]>",
+        "[+2 Food] [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
+        "[+3 Food] [in all cities] <starting from the [Atomic era]>"],
+        "color": [56, 255, 112]
+    },
+    {
+        "name": "Mercantile",
+        "friendBonusUniques": [
+          "[+2 Gold] <before the [Medieval era]>",
+          "[+6 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+8 Gold] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+24 Gold] <starting from the [Atomic era]>"
+        ],
+        "allyBonusUniques": [
+          "[+5 Gold] <before the [Medieval era]>",
+          "[+10 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+20 Gold] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+40 Gold] <starting from the [Atomic era]>",
+          "Provides a unique luxury",
+          "Provides a unique luxury <starting from the [Industrial era]>",
+        ],
+        "color": [255, 216, 0]
+    },
+    {
+        "name": "Inspirational",
+        "friendBonusUniques": [
+          "[+1 Happiness] <before the [Medieval era]>",
+          "[+2 Happiness] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+4 Happiness] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+5 Happiness] <starting from the [Atomic era]>",
+        ],
+        "allyBonusUniques": [
+          "[+2 Happiness] <before the [Medieval era]>",
+          "[+3 Happiness] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+5 Happiness] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+7 Happiness] <starting from the [Atomic era]>",
+          "[+10]% Great Person generation [in all cities] <before the [Medieval era]>",
+          "[+15]% Great Person generation [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+20]% Great Person generation [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+25]% Great Person generation [in all cities] <starting from the [Atomic era]>",
+        ],
+        "color": [255, 70, 145]
+    },
+    {
+        "name": "Militaristic",
+        "friendBonusUniques": [
+        "Provides military units every ≈[20] turns <before the [Medieval era]>",
+        "Provides military units every ≈[17] turns <starting from the [Medieval era]> <before the [Industrial era]>",
+        "Provides military units every ≈[15] turns <starting from the [Industrial era]> <before the [Atomic era]>",
+        "Provides military units every ≈[13] turns <starting from the [Atomic era]>",
+        ],
+        "allyBonusUniques": [
+        "Provides military units every ≈[17] turns <before the [Medieval era]>",
+        "Provides military units every ≈[14] turns <starting from the [Medieval era]> <before the [Industrial era]>",
+        "Provides military units every ≈[12] turns <starting from the [Industrial era]> <before the [Atomic era]>",
+        "Provides military units every ≈[10] turns <starting from the [Atomic era]>",
+        ],
+        "color": [255, 0, 0]
+    },
+    {
+        "name": "Religious",
+        "friendBonusUniques":  [
+            "[+3 Faith] <before the [Medieval era]>",
+            "[+6 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+13 Faith] <starting from the [Industrial era]> <before the [Atomic era]>",
+            "[+24 Faith] <starting from the [Atomic era]>"
+        ],
+        "allyBonusUniques":  [
+            "[+6 Faith] <before the [Medieval era]>",
+            "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Faith] <starting from the [Industrial era]> <before the [Atomic era]>",
+            "[+34 Faith] <starting from the [Atomic era]>"
+        ],
+        "color": [255, 255, 255]
+    },
+    {
+        "name": "Scientific",
+        "friendBonusUniques": [
+            "[+2 Science] <before the [Medieval era]>",
+            "[+6 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+12 Science] <starting from the [Industrial era]> <before the [Atomic era]>",
+            "[+24 Science] <starting from the [Atomic era]>"
+        ],
+        "allyBonusUniques": [
+            "[+4 Science] <before the [Medieval era]>",
+            "[+8 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+18 Science] <starting from the [Industrial era]> <before the [Atomic era]>",
+            "[+28 Science] <starting from the [Atomic era]>",
+        ],
+        "color": [42, 69, 210]
+    },
+    {
+        "name": "Industrial",
+        "friendBonusUniques": [
+            "[+1 Production] [in capital] <before the [Medieval era]>",
+            "[+2 Production] [in capital] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+4 Production] [in capital] <starting from the [Industrial era]> <before the [Atomic era]>",
+            "[+6 Production] [in capital] <starting from the [Atomic era]>"
+        ],
+        "allyBonusUniques": [
+            "[+1 Production] [in capital] <before the [Medieval era]>",
+            "[+2 Production] [in capital] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+4 Production] [in capital] <starting from the [Industrial era]> <before the [Atomic era]>",
+            "[+6 Production] [in capital] <starting from the [Atomic era]>",
+
+            "[+1 Production] [in all cities] <before the [Medieval era]>",
+            "[+2 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+3 Production] [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
+            "[+4 Production] [in all cities] <starting from the [Atomic era]>"
+        ],
+        "color": [240, 111, 15]
+    },
+    {
+        "name": "Diplomatic",
+        "friendBonusUniques": [
+          "[-5]% City-State Influence degradation <before the [Medieval era]>",
+          "[-10]% City-State Influence degradation <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[-15]% City-State Influence degradation <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[-25]% City-State Influence degradation <starting from the [Atomic era]>"
+        ],
+        "allyBonusUniques": [
+          "[-10]% City-State Influence degradation <before the [Medieval era]>",
+          "[-15]% City-State Influence degradation <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[-25]% City-State Influence degradation <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[-30]% City-State Influence degradation <starting from the [Atomic era]>",
+
+          "Resting point for Influence with City-States is increased by [10] <before the [Medieval era]>",
+          "Resting point for Influence with City-States is increased by [15] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "Resting point for Influence with City-States is increased by [20] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "Resting point for Influence with City-States is increased by [25] <starting from the [Atomic era]>"
+        ],
+        "color": [217, 225, 72]
+    },
+]
