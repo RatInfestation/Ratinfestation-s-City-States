@@ -155,10 +155,15 @@
           "[-25]% City-State Influence degradation <starting from the [Industrial era]> <before the [Atomic era]>",
           "[-30]% City-State Influence degradation <starting from the [Atomic era]>",
 
-          "Resting point for Influence with City-States is increased by [10] <before the [Medieval era]>",
-          "Resting point for Influence with City-States is increased by [15] <starting from the [Medieval era]> <before the [Industrial era]>",
-          "Resting point for Influence with City-States is increased by [20] <starting from the [Industrial era]> <before the [Atomic era]>",
-          "Resting point for Influence with City-States is increased by [25] <starting from the [Atomic era]>"
+          "[+10]% resources gifted by City-States <before the [Medieval era]>",
+          "[+20]% resources gifted by City-States <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+35]% resources gifted by City-States <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+50]% resources gifted by City-States <starting from the [Atomic era]>",
+
+          "Gifts of Gold to City-States generate [+5]% more Influence <before the [Medieval era]>",
+          "Gifts of Gold to City-States generate [+10]% more Influence <starting from the [Medieval era]> <before the [Industrial era]>",
+          "Gifts of Gold to City-States generate [+15]% more Influence <starting from the [Industrial era]> <before the [Atomic era]>",
+          "Gifts of Gold to City-States generate [+25]% more Influence <starting from the [Atomic era]>"
         ],
         "color": [217, 225, 72]
     },
